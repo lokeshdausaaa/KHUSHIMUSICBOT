@@ -53,7 +53,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         [
             InlineKeyboardButton(
                 text=f"☀ 𝓖𝓻𝓸𝓾𝓹 𝓜𝓪𝓷𝓮𝓰𝓶𝓮𝓷𝓽 ☀",
-                url=f"https://t.me/mahakali_Management_Bot",
+                url=f"https://t.me/mahakali_Manegement_Bot",
             )
         ],
     ]

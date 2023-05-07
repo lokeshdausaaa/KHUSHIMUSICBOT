@@ -79,90 +79,34 @@
 
 </details>
 <h1 align="center"><b>❤️ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ❤️</b></h1>
-Welcome to the AlexaMusic repository, a platform developed by TheTeamAlexa to enhance your music experience through Alexa. With AlexaMusic, you can easily command your Alexa to play your favorite songs, artists, and playlists without lifting a finger.
+Welcome to the RoseMusic repository, a platform developed by devil server to enhance your music experience through Rose. With RoseMusic, you can easily command your Rose to play your favorite songs, artists, and playlists without lifting a finger.
 
-Our development team has worked tirelessly to create a seamless user experience, from integrating various music services to providing custom voice commands for Alexa. We believe that music has the power to bring people together, and our goal is to make it as accessible and enjoyable as possible.
+Our development team has worked tirelessly to create a seamless user experience, from integrating various music services to providing custom voice commands for Rose. We believe that music has the power to bring people together, and our goal is to make it as accessible and enjoyable as possible.
 
-Through this repository, we hope to share our passion for music and innovation with the world. Whether you're a developer looking to contribute to our open-source project or a music lover excited to try out AlexaMusic, we welcome you to join our community and help us shape the future of music with Alexa.
-<summary><b>ʀᴇǫᴜɪʀᴇᴍᴇɴᴛs</b></summary>
-<br>
-    
-- [ᴘʏᴛʜᴏɴ𝟹.𝟿](https://www.python.org/downloads/release/python-390/)
-- [ᴛᴇʟᴇɢʀᴀᴍ ᴀᴘɪ ᴋᴇʏ](https://docs.pyrogram.org/intro/setup#api-keys)
-- [ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ ᴛᴏᴋᴇɴ](https://t.me/botfather)
-- [ᴍᴏɴɢᴏᴅʙ URI](https://telegra.ph/How-To-get-Mongodb-URI-04-06)
-- [sᴛʀɪɴɢ sᴇssɪᴏɴ](https://t.me/StringGeneratorRobot)
-    
-<summary><b>sᴄᴀʟɪɴɢᴏ</b></summary>
-<br>
-ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴅᴇᴘʟᴏʏ ᴀʟᴇxᴀ ᴍᴜsɪᴄ ᴏɴ sᴄᴀʟɪɴɢᴏ ɪɴᴛʀᴏᴅᴜᴄᴇᴅ ʙʏ @ITZ-ZAID
-        
-<p><a href="https://my.scalingo.com/deploy?template=https://github.com/TheTeamAlexa/AlexaMusic"> <img src="https://cdn.scalingo.com/deploy/button.svg" width="220" height="38.45"/></a></p>
+Through this repository, we hope to share our passion for music and innovation with the world. Whether you're a developer looking to contribute to our open-source project or a music lover excited to try out RoseMusic, we welcome you to join our community and help us shape the future of music with devil server.
 
-<summary><b>sᴛʀɪɴɢ sᴇssɪᴏɴ</b></summary>
-<br>
-    
-> ʏᴏᴜ'ʟʟ ɴᴇᴇᴅ ᴀ ᴀᴘɪ_ɪᴅ & ᴀᴘɪ_ʜᴀsʜ ɪɴ ᴏʀᴅᴇʀ ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ ᴘʏʀᴏɢʀᴀᴍ sᴇssɪᴏɴ. 
-> ᴀʟᴡᴀʏs ʀᴇᴍᴇʙᴇʀ ᴛᴏ ᴜsᴇ ɢᴏᴏᴅ ᴀᴘɪ ᴄᴏᴍʙᴏ ᴇʟsᴇ ʏᴏᴜʀ ᴀᴄᴄᴏᴜɴᴛ ᴄᴏᴜʟᴅ ʙᴇ ᴅᴇʟᴇᴛᴇᴅ.
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 
-<h4> ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ ᴠɪᴀ ʀᴇᴘʟ: </h4>    
-<p><a href="https://replit.com/@AssadAli/String-Session-Generator"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
+</h3>
 
-<h4> ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ ᴠɪᴀ ᴛᴇʟᴇɢʀᴀᴍ sᴛʀɪɴɢ-ɢᴇɴ ʙᴏᴛ: </h4>    
-<p><a href="https://t.me/Session_Generator_Robot"><img src="https://img.shields.io/badge/TG%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/devidop/rose"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-<summary><b>ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ</b></summary>
-<br>
 
-> ʜᴇʀᴏᴋᴜ ʜᴀs ᴛᴡᴏ ᴠᴀʀs[ ʜᴇʀᴏᴋᴜ_ᴀᴘɪ_ᴋᴇʏ & ʜᴇʀᴏᴋᴜ_ᴀᴘᴘ_ɴᴀᴍᴇ ] ғᴏʀ ᴜᴘᴅᴀᴛᴇʀ ᴛᴏ ᴡᴏʀᴋ. 
-> ʙʏ sᴇᴛᴛɪɴɢ ᴛʜᴏsᴇ ᴛᴡᴏ ᴠᴀʀs ʏᴏᴜ ᴄᴀɴ ɢᴇᴛ ʟᴏɢs ᴏғ ʏᴏᴜʀ ʜᴇʀᴏᴋᴜ ᴀᴘᴘ, sᴇᴛ ᴠᴀʀ, ᴇᴅɪᴛ ᴠᴀʀ, ᴅᴇʟᴇᴛᴇ ᴠᴀʀs , ᴄʜᴇᴄᴋ ᴅʏɴᴏ ᴜsᴀɢᴇ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇ ʙᴏᴛ. 
-> ᴛʜᴏsᴇ ᴛᴡᴏ ᴠᴀʀs ᴀʀᴇ ɴᴏᴛ ᴍᴀɴᴅᴀᴛᴏʀʏ, ʏᴏᴜ ᴄᴀɴ ʟᴇᴀᴠᴇ ᴛʜᴇᴍ ʙʟᴀɴᴋ ᴛᴏᴏ. 
-    
-<h4> ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ʏᴜᴋᴋɪ ᴏɴ ʜᴇʀᴏᴋᴜ</h4>    
-<p><a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FTheTeamAlexa%2FAlexaMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a></p>
-
-<h4>ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ɪꜰ ʏᴏᴜ ᴀʀᴇ ꜰᴀᴄɪɴɢ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴏʀ  ᴀᴄᴄᴏᴜɴᴛ sᴜsᴘᴇɴsɪᴏɴ ɪssᴜᴇ ᴛᴏ ʙʏᴘᴀss ᴀɴʏ ʀᴇsᴛʀɪᴄᴛɪᴏɴ ᴏɴ ʜᴇʀᴏᴋᴜ ᴏʀ ʀᴀɪʟᴡᴇʏ</h4>    
-<a href="https://github.com/TheTeamAlexa/AlexaMusic-Bypass"><img src="https://img.shields.io/badge/Alexa-Music%20Bypass-blue.svg?style=for-the-badge&logo=GitHub"></a>
-
-<h1 align="center"><b>❤️ ᴏᴡɴᴇʀ ᴀɴᴅ ᴄʀᴇᴅɪᴛ ❤️</b></h1>
-<details>
-<summary><b>ᴄʀᴇᴅɪᴛ</b></summary>
-<br>
-
-## sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
-
-- [ᴀsᴀᴅ ᴀʟɪ](https://t.me/Dr_Asad_Ali)
-- [ʟᴏɢɪ ʟᴀʙ](https://github.com/LOGI-LAB)
-- [ʜᴀʀsʜɪᴛ](https://t.me/HarshitSharma361)
-- [Abhimanyu](https://t.me/Itz_Venom_xD)
-- [ᴍᴀssoᴍ](https://t.me/Kattai_massom)
-- [ʏᴜᴋᴋɪ](https://github.com/NotReallyShikhar)
-- [ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/TheAnonymous2005)
-</details>
-
-<details>
-<summary><b>ʙʀᴏᴛʜᴇʀ</b></summary>
-<br>
-
-- [ᴍᴜᴋᴜ](https://t.me/LEGEND_MUKUND)
-- [ᴅᴇᴠɪʟ](https://t.me/its_devil_911)
-
-</details>
-
-<details>
-<summary><b>sᴜᴘᴘᴏʀᴛ</b></summary>
-<br>
 
 # ❤️ Support<
-<a href="https://t.me/Alexa_BotUpdates"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/Shayri_Music_Lovers"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/new_devil_world"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/love_ka_funda"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 <a href="https://t.me/Give_Me_Heart"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
-<a href="https://t.me/Alexa_Help"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
+<a href="https://t.me/oficial_adarsh_op"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
 
 </details>
 
 
-<h1 align="center"><b>❤️ ᴀᴄᴋɴᴏᴡʟᴇᴅɢᴇᴍᴇɴᴛs ❤️</b></h1>
+
+
+
+
 
 <details>
 <summary><b>ʟɪʙʀᴀʀɪᴇs</b></summary>
@@ -180,11 +124,6 @@ Through this repository, we hope to share our passion for music and innovation w
 
 
 
-<h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
-</h3>
-
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/devidop/rose"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 

@@ -1,5 +1,3 @@
-
-
 # Kanged By © @Dr_Asad_Ali
 # devil server © @new_devil_world
 # Owner devil server

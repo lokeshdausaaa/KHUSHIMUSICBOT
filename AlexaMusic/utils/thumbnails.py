@@ -171,10 +171,10 @@ async def gen_thumb(videoid, user_id, theme):
                 )
         except:
             pass
-        text_w, text_h = draw.textsize(f"Help: New_Devil_world", font=arial)
+        text_w, text_h = draw.textsize(f"Help: Ajanabee_Duniya", font=arial)
         draw.text(
             ((1280 - text_w) / 2, 620),
-            f"Help: New_devil_world",
+            f"Help: Ajanabee_Duniya",
             fill="white",
             font=arial,
         )
@@ -292,7 +292,7 @@ async def gen_qthumb(videoid, user_id, theme):
         ImageFont.truetype("assets/font.ttf", 25)
         para = textwrap.wrap(title, width=32)
         try:
-            text_w, text_h = draw.textsize(f"ROSE ADDED THIS SONG TO QUEUE", font=font)
+            text_w, text_h = draw.textsize(f"KHUSHI ADDED THIS SONG TO QUEUE", font=font)
             draw.text(
                 ((1280 - text_w) / 2, 30),
                 f"ROSE ADDED THIS SONG TO QUEUE",
@@ -304,7 +304,7 @@ async def gen_qthumb(videoid, user_id, theme):
             )
             draw.text(
                 ((1280 - text_w) / 2, 80),
-                f"Rose Music One Of The Most Advanced Telegram Music Bot",
+                f"KHUSHI Music One Of The Most Advanced Telegram Music Bot",
                 fill="green",
                 font=arial,
             )
@@ -333,7 +333,7 @@ async def gen_qthumb(videoid, user_id, theme):
         text_w, text_h = draw.textsize(f"YouTube: Jankari Ki Duniya", font=arial)
         draw.text(
             ((1280 - text_w) / 2, 620),
-            f"Help: New_Devil_World",
+            f"Help: Ajanabee_Duniya",
             fill="white",
             font=arial,
         )

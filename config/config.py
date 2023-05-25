@@ -110,17 +110,17 @@ PING_IMG_URL = getenv(
 
 PLAYLIST_IMG_URL = getenv(
     "PLAYLIST_IMG_URL",
-    "https://graph.org/file/a974f191849682faf555a.jpg",
+    "https://te.legra.ph/file/b4bf6235f67aceab96929.jpg",
 )
 
 GLOBAL_IMG_URL = getenv(
     "GLOBAL_IMG_URL",
-    "https://graph.org/file/600efe9b3a6c943575db7.jpg",
+    "https://te.legra.ph/file/b4bf6235f67aceab96929.jpg",
 )
 
 STATS_IMG_URL = getenv(
     "STATS_IMG_URL",
-    "https://graph.org/file/0b850fb939fea0fda265e.jpg",
+    "https://te.legra.ph/file/c92961aef8fc32b124739.jpg",
 )
 
 TELEGRAM_AUDIO_URL = getenv(

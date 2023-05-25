@@ -295,12 +295,12 @@ async def gen_qthumb(videoid, user_id, theme):
             text_w, text_h = draw.textsize(f"KHUSHI ADDED THIS SONG TO QUEUE", font=font)
             draw.text(
                 ((1280 - text_w) / 2, 30),
-                f"ROSE ADDED THIS SONG TO QUEUE",
+                f"KHUSHI ADDED THIS SONG TO QUEUE",
                 fill="red",
                 font=font,
             )
             text_w, text_h = draw.textsize(
-                f"Rose Music One Of The Most Advanced Telegram Music Bot", font=arial
+                f"KHUSHI Music One Of The Most Advanced Telegram Music Bot", font=arial
             )
             draw.text(
                 ((1280 - text_w) / 2, 80),

@@ -66,7 +66,7 @@ class Userbot(Client):
             try:
                 await self.one.send_message(
                     config.LOG_GROUP_ID,
-                    "ᴀssɪsᴛᴀɴᴛ sᴛᴀʀᴛᴇᴅ, ɴᴏᴡ ɪᴛ's ᴛɪᴍᴇ ᴛᴏ ᴇɴᴊᴏʏ ᴍᴜsɪᴄ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴠɪᴅᴇᴏᴄʜᴀᴛs.",
+                    "ʀᴀᴅʜᴇ ʀᴀᴅʜᴇ ᴀssɪsᴛᴀɴᴛ sᴛᴀʀᴛᴇᴅ, ᴊᴀɪ sʜʀᴇᴇ ʀᴀᴀᴍ .",
                 )
             except:
                 LOGGER(__name__).error(

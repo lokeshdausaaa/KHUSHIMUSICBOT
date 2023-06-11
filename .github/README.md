@@ -10,7 +10,7 @@
 
 > ⭐️ Thanks to everyone for using Alexa,  🤭 That is the greatest pleasure we have !
 
-### adarsh– History
+### KRISHNA – History
 
 <a href="https://telegram.me/NO_LOVE_I_HATE_LOVE"><img src="https://img.shields.io/badge/Join%20Support-blue.svg?style=for-the-badge&logo=YouTube"></a>
 

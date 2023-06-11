@@ -126,11 +126,11 @@
 
 <h1 align="center"><b>❤️ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ❤️</b></h1>
 
-Welcome to the khushi Music repository, a platform developed by devil server to enhance your music experience through Rose. With RoseMusic, you can easily command your Rose to play your favorite songs, artists, and playlists without lifting a finger.
+Welcome to the khushi Music repository, a platform developed by devil server to enhance your music experience through Rose. With KhushiMusic, you can easily command your Rose to play your favorite songs, artists, and playlists without lifting a finger.
 
 Our development team has worked tirelessly to create a seamless user experience, from integrating various music services to providing custom voice commands for khushi. We believe that music has the power to bring people together, and our goal is to make it as accessible and enjoyable as possible.
 
-Through this repository, we hope to share our passion for music and innovation with the world. Whether you're a developer looking to contribute to our open-source project or a music lover excited to try out khushi Music, we welcome you to join our community and help us shape the future of music with devil server.
+Through this repository, we hope to share our passion for music and innovation with the world. Whether you're a developer looking to contribute to our open-source project or a music lover excited to try out khushi Music, we welcome you to join our community and help us shape the future of music with  khushi ki duniya.
 
 <h3 align="center">
 

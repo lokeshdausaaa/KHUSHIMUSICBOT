@@ -18,17 +18,17 @@ API_HASH = getenv("API_HASH")
 
 BOT_TOKEN = getenv("BOT_TOKEN")
 
-MONGO_DB_URI = getenv("MONGO_DB_URI", None)
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://Anon1025:Anon1025@fallen.mujw8.mongodb.net/Fallen?retryWrites=true&w=majority"))
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", "900000"))
 
 SONG_DOWNLOAD_DURATION = int(getenv("SONG_DOWNLOAD_DURATION_LIMIT", "180"))
 
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", ""))
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001224730540"))
 
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "-𓆩❛ 𝐌𝐈𝐒𝐒🥀⃝➻ 𝐊𝐇𝐔𝐒𝐇𝐈 ❜𓆪⁩")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "𓆩❛-᭄'𝐊𝐢𝐧𝐆 ❪×͜×❫𝐌𝐮𝐒𝐢𝐂 -᭄ °𓆪"
 
-OWNER_ID = list(map(int, getenv("OWNER_ID", "5977523092 ").split()))
+OWNER_ID = list(map(int, getenv("OWNER_ID", "1236703127").split()))
 
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
@@ -38,14 +38,14 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Khushijha5544/KHUSHIMUSICBOT",
+    "https://github.com/lokeshdausaaa/KHUSHIMUSICBOT",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Its_ME_KHUSHI_01")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/Ajanabee_Duniya")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/kalam_kranti")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/DAUSA_123")
 
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False")
 
@@ -65,8 +65,8 @@ TELEGRAM_DOWNLOAD_EDIT_SLEEP = int(getenv("TELEGRAM_EDIT_SLEEP", "5"))
 
 GITHUB_REPO = getenv("GITHUB_REPO", None)
 
-SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", None)
-SPOTIFY_CLIENT_SECRET = getenv("SPOTIFY_CLIENT_SECRET", None)
+SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", "06e4404110ae4341b6c8492d6011330f"))
+SPOTIFY_CLIENT_SECRET = getenv("SPOTIFY_CLIENT_SECRET", "f18f0175d0e94ba7b2e3be6015bd9c12"))
 
 VIDEO_STREAM_LIMIT = int(getenv("VIDEO_STREAM_LIMIT", "3"))
 

@@ -59,8 +59,6 @@ async def inline_query_handler(client, query):
 ⏳**ᴅᴜʀᴀᴛɪᴏɴ:** {duration} Mins
 👀**ᴠɪᴇᴡs:** `{views}`
 ⏰**ᴩᴜʙʟɪsʜᴇᴅ ᴏɴ:** {published}
-🎥**ᴄʜᴀɴɴᴇʟ:** {channel}
-📎**ᴄʜᴀɴɴᴇʟ ʟɪɴᴋ:** [ᴠɪsɪᴛ ᴄʜᴀɴɴᴇʟ]({channellink})
 
 💖 ** sᴇᴀʀᴄʜ ᴩᴏᴡᴇʀᴇᴅ ʙʏ {MUSIC_BOT_NAME} **"""
             answers.append(
